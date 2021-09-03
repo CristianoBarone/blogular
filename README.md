@@ -39,13 +39,13 @@ Default DB structure is
 
 and it's advised to keep it like that if you don't want to modify the frontend software.
 
-## Which dependencies the backend requires?
+## Which dependencies does the backend requires?
 
    - Express (npm i express)
    - CORS (npm i cors)
    - Mongoose (npm i mongoose)
 
-## Which dependencies the frontend requires?
+## Which dependencies does the frontend requires?
 
    - Axios (npm i axios)
    - @types/axios (npm i @types/axios)
