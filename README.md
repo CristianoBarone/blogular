@@ -20,11 +20,11 @@ Don't worry to make it compatible with a custom backend you just need to make su
 
 when connecting to the backend with a /get/article/:id uri
 
-and return a an array of objects containing
+and return an array of objects containing
 
   - Title
   - Abstract
-  - id
+  - ID
   
 when connecting to the backend with a /get/articles uri
 
