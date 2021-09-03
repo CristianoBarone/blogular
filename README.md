@@ -39,8 +39,14 @@ Default DB structure is
 
 and it's advised to keep it like that if you don't want to modify the frontend software.
 
-## Which dependencies I need for running the backend?
+## Which dependencies the backend requires?
 
    - Express (npm i express)
    - CORS (npm i cors)
    - Mongoose (npm i mongoose)
+
+## Which dependencies the frontend requires?
+
+   - Axios (npm i axios)
+   - @types/axios (npm i @types/axios)
+   - @types/node (npm i --save-dev @types/node)
