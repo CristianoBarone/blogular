@@ -3,16 +3,15 @@ Angular blogging tool
 
 ## What is this software?
 
-This is a blogging software made in Angular with which you can compile your own customized blog with minimal effords.
+This is a blogging software made in Angular with which you can compile your own customized blog with minimal effort.
 
 ## How do I publish an article?
 
-I am still working on a writer, more because of a safety reason than everything else. For the time being you can do like I do, directly tiping the HTML code in
-the "content" field of the article document.
+I am still working on a writer, more because of a safety reason than everything else. For the time being you can do like I do, directly tiping the HTML code in the "content" field of the article document.
 
 ## What if I don't want to use Mongo for it?
 
-Don't worry to make it compatible with a custom backend you just need to make sure it returns an object containing 
+Don't worry, to make it compatible with a custom backend you just need to make sure it returns an object containing 
 
  - Title
  - Abstract
@@ -39,13 +38,13 @@ Default DB structure is
 
 and it's advised to keep it like that if you don't want to modify the frontend software.
 
-## Which dependencies does the backend requires?
+## Which dependencies does the backend require?
 
    - Express (npm i express)
    - CORS (npm i cors)
    - Mongoose (npm i mongoose)
 
-## Which dependencies does the frontend requires?
+## Which dependencies does the frontend require?
 
    - Axios (npm i axios)
    - @types/axios (npm i @types/axios)
