@@ -1,6 +1,9 @@
 # blogular
 Angular blogging tool
 
+# Important news
+As of July 2022, Google has cut support for Angular, thus this project won't be updated anymore despite my efforts to make the writer. Instead, I am focusing on a new software. The example page "crisblog.herokuapp.com" will be discontinued when the new software will be released.
+
 ## What is this software?
 
 This is a blogging software made in Angular with which you can compile your own customized blog with minimal effort.
