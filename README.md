@@ -4,6 +4,10 @@ Angular blogging tool
 # Important news
 As of July 2022, Google has cut support for Angular, thus this project won't be updated anymore despite my efforts to make the writer. Instead, I am focusing on a new software. The example page "crisblog.herokuapp.com" will be discontinued when the new software will be released.
 
+Please consider this code obsolete, this project discontinued, and avoid using it.
+
+<details>
+ <summary>About the software</summary>
 ## What is this software?
 
 This is a blogging software made in Angular with which you can compile your own customized blog with minimal effort.
@@ -52,3 +56,5 @@ and it's advised to keep it like that if you don't want to modify the frontend s
    - Axios (npm i axios)
    - @types/axios (npm i @types/axios)
    - @types/node (npm i --save-dev @types/node)
+
+</details>
