@@ -8,6 +8,7 @@ Please consider this code obsolete, this project discontinued, and avoid using i
 
 <details>
  <summary>About the software</summary>
+ 
 ## What is this software?
 
 This is a blogging software made in Angular with which you can compile your own customized blog with minimal effort.
